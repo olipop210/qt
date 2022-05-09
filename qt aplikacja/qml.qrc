@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Logowanie.qml</file>
+        <file>MainMenu.qml</file>
+        <file>menuicon.svg</file>
+        <file>NowaKonfiguracja1.qml</file>
+        <file>MainContentChanger.qml</file>
+        <file>NowaKonfiguracja2.qml</file>
+        <file>plytaglowna.h</file>
+        <file>plytaglowna.cpp</file>
+        <file>pgwczytaj.h</file>
+        <file>pgwczytaj.cpp</file>
+    </qresource>
+</RCC>
