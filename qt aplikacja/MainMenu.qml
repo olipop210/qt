@@ -13,7 +13,7 @@ Item
         to: 0
         duration: 2000
         running: false
-        onFinished: aktywne_okno = 1
+        onFinished: aktywne_okno = 1, panelLogowania.enabled = true
     }
     anchors.fill: parent
     Rectangle

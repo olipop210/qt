@@ -11,10 +11,10 @@ int main(int argc, char *argv[])
     QCoreApplication::setAttribute(Qt::AA_EnableHighDpiScaling);
 #endif
     QGuiApplication app(argc, argv);
-    pgwczytaj obiekt;
+    //pgwczytaj obiekt;
 
     QQmlApplicationEngine engine;
-    engine.rootContext()->setContextProperty("pgwczytaj", &obiekt);
+    //engine.rootContext()->setContextProperty("pgwczytaj", &obiekt);
 
     const QUrl url(QStringLiteral("qrc:/main.qml"));
     QObject::connect(&engine, &QQmlApplicationEngine::objectCreated,

@@ -13,7 +13,7 @@ Item {
         to: 0
         duration: 2000
         running: false
-        onFinished: aktywne_okno = 2, wynik.opacity = 0
+        onFinished: aktywne_okno = 2, wynik.opacity = 0, menuGlowne.enabled = true
     }
     Column
     {
