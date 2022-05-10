@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Logowanie.qml</file>
+        <file>MainMenu.qml</file>
+        <file>MainContentChanger.qml</file>
+        <file>NowaKonfiguracja1.qml</file>
+        <file>NowaKonfiguracja2.qml</file>
+        <file>menuicon.svg</file>
+    </qresource>
+</RCC>
